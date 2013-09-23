@@ -1,0 +1,1 @@
+puts "Kittens ARE cute."
